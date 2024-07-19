@@ -1,7 +1,7 @@
 <h1 align="center">Hello, my name is Nathan Do👋</h1>
 <h3 align="center">Current student at TripleTen's Coding Bootcamp</h3>
 <p>
-  I am currently enrolled in TripleTen's Coding Bootcamp. Before I got to the position that I have, I had gone to Montgomery County Community College for 2 years, where I was able to major in Computer Science. The institute here offered some great courses where I learned to code Java, as well as having the exposure to MIPS (Multiple Instructions Per Second), and mySQL. I made way to continue enhancing some Microsoft Office skills, too! I had the great priviledge to have continued my studies in the tech world during my time here.  
+  I am currently enrolled in TripleTen's Coding Bootcamp. Before I got to the position that I have, I had gone to Montgomery County Community College in Blue Bell, PA, for 2 years, where I was able to major in Computer Science. The institute here offered some great courses where I learned to code Java, as well as having the exposure to MIPS (Multiple Instructions Per Second), and mySQL. I made way to continue enhancing some Microsoft Office skills, too! I had the great priviledge to have continued my studies in the tech world during my time here.  
 </p>
 
 
